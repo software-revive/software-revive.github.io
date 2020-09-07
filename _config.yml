@@ -1,0 +1,14 @@
+markdown: kramdown
+theme: jekyll-theme-hacker
+title: Software Revive
+permalink: pretty
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
